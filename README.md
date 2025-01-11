@@ -1,13 +1,13 @@
-# DATA 8 Fall 2024
+# DATA 8 Spring 2025
 
-Managed by FALL 2024 #TeamContent: 
-* Leads: Edwin Vargas Navarro and Ella DeGuzman
-* Members: Brandon Concepcion, Colin Olairez, Marissa Lumpkin, Mia Yen
+Managed by Spring 2025 #TeamContent: 
+* Leads: Ella DeGuzman and Brandon Su
+* Members: TBD
 
 [![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
 [![a11y specs](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml)
 
-The https://www.data8.org/fa24/ website.
+The https://www.data8.org/sp25/ website.
 
 ## Installation
 
