@@ -1,7 +1,7 @@
 ---
 title: Week 12 Announcements
 week: 12
-date: 2024-11-11
+date: 2025-04-06
 ---
 
 1. **Assignments Due**

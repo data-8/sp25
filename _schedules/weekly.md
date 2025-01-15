@@ -24,15 +24,15 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 11:00 AM
+        start: 11:00 AM
+        end: 12:00 PM
         location: Wheeler 150
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 11:00 AM
+        start: 11:00 AM
+        end: 12:00 PM
         location: Wheeler 150
       - name: Office Hours
         start: 12:00 PM
@@ -47,7 +47,7 @@ schedule:
   - name: Friday
     events:
       - name: Lecture
-        start: 10:00 AM
-        end: 11:00 AM
+        start: 11:00 AM
+        end: 12:00 PM
         location: Wheeler 150
 ---
