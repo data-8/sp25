@@ -1,9 +1,8 @@
 ---
 title: Week 0 Announcements
 week: 0
-date: 2024-08-19
+date: 2025-01-12
 ---
 
-* Lectures are in Wheeler 150
-    * First day of class is on Wednesday 8/28!
+* This site is under construction. All dates and policies are tentative
 {: .fs-5 }
