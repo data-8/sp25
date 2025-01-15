@@ -1,7 +1,7 @@
 ---
 title: Week 3 Announcements
 week: 3
-date: 2024-09-09
+date: 2025-02-02
 ---
 
 1. **Assignments Due**

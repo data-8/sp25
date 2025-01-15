@@ -1,7 +1,7 @@
 ---
 title: Week 2 Announcements
 week: 2
-date: 2024-09-02
+date: 2025-01-26
 ---
 
 1. **Assignments Due**

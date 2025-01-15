@@ -1,7 +1,7 @@
 ---
 title: Week 5 Announcements
 week: 5
-date: 2024-09-23
+date: 2025-02-16
 ---
 
 1. **Assignments Due**
