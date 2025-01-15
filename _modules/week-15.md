@@ -12,7 +12,7 @@ Apr 28
 : **Homework**{: .label .label-homework} {{site.links.hw.hw13}} <!-- (Due 12/8) -->
 
 Apr 30
-: **39**{: .label} Case Study: Staff Panel
+: **39**{: .label} Staff Panel
     : {{site.links.lec.slides.slide39}} {{site.links.lec.demo.demo39}}
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht14}}
 
