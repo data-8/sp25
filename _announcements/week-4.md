@@ -1,7 +1,7 @@
 ---
 title: Week 4 Announcements
 week: 4
-date: 2024-09-16
+date: 2025-02-09
 ---
 
 1. **Assignments Due**

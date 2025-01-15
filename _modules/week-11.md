@@ -4,19 +4,21 @@ class: Berkeley
 status: Active
 ---
 
-Nov 4
-: **29**{: .label} Correlation
-    : {{site.links.lec.slides.slide29}} {{site.links.lec.demo.demo29}}
-: _Reading:_ [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
+Mar 31
+: **26**{: .label} Sample Means
+    : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
+: _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
+: **Lab**{: .label .label-lab} {{site.links.lab.lab08}} <!-- (Due 11/1) -->
 
-Nov 6
-: **30**{: .label} Linear Regression
-    : {{site.links.lec.slides.slide30}} {{site.links.lec.demo.demo30}}
-: _Reading:_ [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
-: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht11}}
+Apr 2
+: **27**{: .label} The Normal Distribution
+    : {{site.links.lec.slides.slide26}} {{site.links.lec.demo.demo26}}
+: _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht10}}
 
-Nov 8
-: **31**{: .label} Least Squares
-  : {{site.links.lec.slides.slide31}} {{site.links.lec.demo.demo31}}
-: _Reading:_ [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw10}} (Due 11/13)
+Apr 4
+: **28**{: .label} Choosing a Sample Size
+  : {{site.links.lec.slides.slide28}} {{site.links.lec.demo.demo28}}
+: _Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
+: **Homework**{: .label .label-homework} {{site.links.hw.hw09}} (Due 11/6)
+: **Project**{: .label .label-project} {{site.links.proj.proj2}} <!-- (Due Fri 11/15, Checkpoint Fri 11/8) -->

@@ -4,14 +4,14 @@ class: Berkeley
 status: Active
 ---
 
-Dec 9
-: **41**{: .label} Final Review Part I: Inference
+May 5
+: **41**{: .label} RRR Review I
     : {{site.links.lec.slides.slide41}} {{site.links.lec.demo.demo41}}
 
-Dec 11
-: **42**{: .label} Final Review Part II: Prediction
+May 7
+: **42**{: .label} RRR Review II
     : {{site.links.lec.slides.slide42}} {{site.links.lec.demo.demo42}}
 
-Dec 13
-: **43**{: .label} Final Review Part III: Exploration
+May 9
+: **43**{: .label} RRR Review III
   : {{site.links.lec.slides.slide43}} {{site.links.lec.demo.demo43}}
