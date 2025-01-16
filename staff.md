@@ -37,12 +37,12 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 {% assign num_head_teaching_assistants = head_teaching_assistants | size %}
 {% if num_head_teaching_assistants != 0 %}
 
-<div class="role flex">
+<!-- <div class="role flex"> -->
 {% for staffer in head_teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-</div>
+<!-- </div> -->
 
 ## Teaching Assistants
 
@@ -51,21 +51,21 @@ Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-
 {% if num_teaching_assistants != 0 %}
 
 
-<div class="role flex">
+<!-- <div class="role flex"> -->
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-</div>
+<!-- </div> -->
 
 ## Tutors
 {% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 {% assign num_tutors = tutors | size %}
 {% if num_tutors != 0 %}
 
-<div class="role flex">
+<!-- <div class="role flex"> -->
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
-</div>
+<!-- </div> -->
