@@ -35,7 +35,7 @@ The computing platform for the course is hosted at data8.datahub.berkeley.edu. S
 
 ### Support
 
-You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/64093/discussion/). We will also [hold in-person and virtual office hours](https://www.data8.org/fa24/schedule) that offer drop-in help on assignments and course material.
+You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/73504/discussion/). We will also [hold in-person and virtual office hours](https://www.data8.org/sp25/schedule) that offer drop-in help on assignments and course material.
 
 Your lab TA will be your main point of contact for all course-related questions/grade clarifications. The TAs are here to support you, so please lean on your lab TA if you need more support in the class or have any questions/concerns.
 
@@ -45,7 +45,7 @@ Small-group tutoring sessions will be available for students needing additional 
 
 ### Live Lecture
 
-Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
+Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 11:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
 
 ### Labs
 
@@ -75,7 +75,7 @@ The self-service lab is designed to appeal to students who learn well from large
 
 ### Homework and Projects
 
-Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/fa24/policies/#learning-cooperatively) section below.
+Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/sp25/policies/#learning-cooperatively) section below.
 
 Homework will be released on Thursday and due the following Wednesday. Similar to the lab policy discussed above, students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances. 
 
