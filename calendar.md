@@ -12,10 +12,10 @@ permalink: /
 UC Berkeley, Spring 2025
 {: .mb-2 .fs-6}
 
-[Ed](){: .btn .btn-ed}
-[Gradescope](){: .btn .btn-gradescope}
-[Lecture Recordings](){: .btn .btn-bcourses}
-[Jump to Current Week](){: .btn .btn-currweek}
+[Ed](https://edstem.org/us/courses/73504/discussion){: .btn .btn-ed}
+[Gradescope](https://www.gradescope.com/courses/952061){: .btn .btn-gradescope}
+[Lecture Recordings](https://bcourses.berkeley.edu/courses/1542000/external_tools/90481){: .btn .btn-bcourses}
+[Jump to Current Week](https://www.data8.org/sp25/#week-1){: .btn .btn-currweek}
 
 {% include announcements-navigation.html %}
 
