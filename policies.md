@@ -27,11 +27,19 @@ Foundations of Data Science combines three perspectives: inferential thinking, c
 
 The curriculum and format are designed specifically for students who have not previously taken statistics or computer science courses. Students with some prior experience in either statistics or computing are welcome to enroll and often find that this course offers a new perspective that blends computational and inferential thinking. Students who have taken several statistics or computer science courses should instead take a more advanced course like [Data 100](https://ds100.org/).
 
+
 ### Materials & Resources
 
-Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/). This text was written for the course by the course instructors. A complete PDF of the textbook can be found in the Student Materials Google Drive.
+Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/). This text was written for the course by previous instructors. 
 
-The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, we can help you borrow a machine; please contact [data8@berkeley.edu](mailto:data8@berkeley.edu).
+The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, you can reach out to the Student Technology Equity Program [STEP program](https://studenttech.berkeley.edu/devicelending).  
+
+_Ed Discussion Forum_
+
+For questions about course material outside of Office Hours, students will use our course discussion forum, Ed Discussion (“Ed”). Ed is a great resource for asking questions about course material and getting help from the professor, course staff, and other students. 
+
+Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct. We expect all posts to demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
+
 
 ### Support
 
