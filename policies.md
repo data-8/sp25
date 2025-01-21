@@ -187,7 +187,14 @@ With regards to reports of sexual misconduct/violence/assault, you may speak wit
 
 > As UC employees, I and the tutors are "Responsible Employees" and are therefore required to report incidents of sexual violence, sexual harassment, or other conduct prohibited by University policy to the Title IX officer. We cannot keep reports of sexual harassment or sexual violence confidential, but the Title IX officer will consider requests for confidentiality. Note that there are confidential resources available to you through UCB's PATH to Care Center, which serves survivors of sexual violence and sexual harassment; call their 24/7 Care Line at 510-643-2005.
 
+_Data Science Student Climate_
+
+[Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
+
 Below are some campus resources that also may be helpful during the semester:
+
+### Device Lending options
+Students can access device lending options through the Student Technology Equity Program [STEP program](https://studenttech.berkeley.edu/devicelending).
 
 {% include campus_resources.html %}
 
