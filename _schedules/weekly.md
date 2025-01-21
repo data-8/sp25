@@ -27,27 +27,48 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Wheeler 150
+      - name: Office Hours
+        start: 1:00 PM
+        end: 4:00 PM
+        location: Warren 101-B
   - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 9:00 AM
+        end: 4:00 PM
+        location: Warren 101-B
   - name: Wednesday
     events:
       - name: Lecture
         start: 11:00 AM
         end: 12:00 PM
         location: Wheeler 150
-      # - name: Office Hours
-      #   start: 12:00 PM
-      #   end: 5:00 PM
-      #   location: Warren 101-B & Online
+      - name: Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Warren 101-B & Online
+      - name: Office Hours
+        start: 1:00 PM
+        end: 4:00 PM
+        location: Warren 101-B
   - name: Thursday
-    # events:  
-    #   - name: Office Hours
-    #     start: 10:00 AM
-    #     end: 2:00 PM
-    #     location: Warren 101-B & Online
+    events:  
+      - name: Office Hours
+        start: 12:00 PM
+        end: 3:00 PM
+        location: Warren 101-B
   - name: Friday
     events:
       - name: Lecture
         start: 11:00 AM
         end: 12:00 PM
         location: Wheeler 150
+      - name: Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Warren 101-B & Online
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:00 PM
+        location: Warren 101-B
 ---
