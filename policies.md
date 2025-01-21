@@ -38,7 +38,7 @@ _Ed Discussion Forum_
 
 For questions about course material outside of Office Hours, students will use our course discussion forum, Ed Discussion (“Ed”). Ed is a great resource for asking questions about course material and getting help from the professor, course staff, and other students. 
 
-Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct. We expect all posts to demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
+Ed is a formal, academic space. Posts in this forum must relate to the course and be in alignment with [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/). We expect all posts to demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. Posts that violate these standards will be removed.
 
 
 ### Support
