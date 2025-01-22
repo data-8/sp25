@@ -213,7 +213,7 @@ links:
     hw12: "Homework 12"
     hw13: "Homework 13"
   lab:
-    lab01: "Lab 01: Expressions"
+    lab01: "[Lab 01: Expressions](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Flab%2Flab01%2Flab01.ipynb)"
     lab02: "Lab 02: Table Operations"
     lab03: "Lab 03: Data Types, Creating and Extending Tables"
     lab04: "Lab 04: Functions and Visualizations"
@@ -224,7 +224,7 @@ links:
     lab09: "Lab 09: Regression"
     lab10: "Lab 10: Conditional Probability"
   wksht:
-    wksht01: "Worksheet 01"
+    wksht01: "[Worksheet 01](https://drive.google.com/file/d/1uxSU3c2DaOtKvIS0jVGXnIkKjAIThDb0/view?usp=sharing)"
     wksht02: "Worksheet 02"
     wksht03: "Worksheet 03"
     wksht04: "Worksheet 04"
