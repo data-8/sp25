@@ -133,7 +133,7 @@ There will be one alternate exam for the midterm which is only for those with ex
 
 ## Grades
 
-Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth (25 / 3)% = 8.3% of your grade.
+Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth (20 / 3)% = 6.6% of your grade.
 
 | Activity | Grade |
 | --- | --- |
@@ -165,7 +165,7 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this form (coming soon, link TBD). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdcVhd9WIXn0uegFEX8QVTEEre4oqv5oqQc6bXkNPkG_VIl7g/viewform?usp=sf_link). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 <u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
 
