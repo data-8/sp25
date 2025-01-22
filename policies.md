@@ -125,9 +125,9 @@ You may reference [this walkthrough video](https://drive.google.com/file/d/12lBU
 
 ### Exams
 
-The midterm exam will be TENTATIVELY held on Friday, October 18 from 7-9pm PT. Please note the date and time carefully.
+The midterm exam will be TENTATIVELY held on Friday, March 14 from 7-9pm PT. Please note the date and time carefully.
 
-The final exam is required for a passing grade, and will be held on Monday, December 16, from 8-11am PT.
+The final exam is required for a passing grade, and will be held on Tuesday, May 13, from 7-10pm PT.
 
 There will be one alternate exam for the midterm which is only for those with exam conflicts. There will not be an alternate exam for the final exam. All exams will be held in-person.
 
