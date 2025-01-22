@@ -27,12 +27,11 @@ Foundations of Data Science combines three perspectives: inferential thinking, c
 
 The curriculum and format are designed specifically for students who have not previously taken statistics or computer science courses. Students with some prior experience in either statistics or computing are welcome to enroll and often find that this course offers a new perspective that blends computational and inferential thinking. Students who have taken several statistics or computer science courses should instead take a more advanced course like [Data 100](https://ds100.org/).
 
-
 ### Materials & Resources
 
 Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/). This text was written for the course by previous instructors. 
 
-The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, you can reach out to the Student Technology Equity Program [STEP program](https://studenttech.berkeley.edu/devicelending).  
+The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, you can reach out to the Student Technology Equity Program STEP program.  
 
 _Ed Discussion Forum_
 
@@ -43,7 +42,7 @@ Ed is a formal, academic space. Posts in this forum must relate to the course an
 
 ### Support
 
-You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/73504/discussion/). We will also [hold in-person and virtual office hours](https://www.data8.org/sp25/schedule) that offer drop-in help on assignments and course material.
+You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/52859/). We will also [hold in-person and virtual office hours](https://www.data8.org/sp24/officehours) that offer drop-in help on assignments and course material.
 
 Your lab TA will be your main point of contact for all course-related questions/grade clarifications. The TAs are here to support you, so please lean on your lab TA if you need more support in the class or have any questions/concerns.
 
@@ -53,51 +52,82 @@ Small-group tutoring sessions will be available for students needing additional 
 
 ### Live Lecture
 
-Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 11:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
+Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
 
 ### Labs
 
-Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. Lab assignments will be released on Monday night each week.
+Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. The problems in lab are good preparation for similar (and harder) problems you will see on your homework assignments! Lab assignments will be released on Monday night each week.  
 
 This semester, we offer two lab formats: an attendance-based option called regular lab and a submission-based option called self-service lab. Both are designed to help students learn the course material equally well. You can choose which format you want. 
 
-Students may switch formats at two points throughout the semester (1) during the first week of lab sections (between Lab 1 and the start of Lab 2) and (2) after the midterm scores have been released. Please note that students looking to switch from self service to regular lab following the midterm will only be able to do so if capacity in lab sections are available. Additionally, if at any point a student has chosen the self service format, their lab grade will be solely based on the completion of the lab notebook, regardless of if they are attending a regular lab (e.g. if a student switches into a regular lab section from self service post-midterm, their credit will still be awarded based on the percentage of test cases passed). 
+You can ask us about lab assignments in office hours or on Ed in the dedicated lab thread for a given week! Remember to never post your code publicly; please make a private post if you have to post any code. *We also encourage you to review the course policies concerning collaboration and academic honesty.*
+
 
 _Regular Lab_
 
-Regular lab meetings are two hours long. The first hour focuses on the discussion worksheet and group problem-solving. Staff highly encourages *minimal technology use* during this portion of the lab (all materials required will be available at the lab section). The second hour is dedicated to completing the programming-based lab assignment. **80% of lab credit will be attendance-based. The remaining 20% of credit will be awarded for submitting the lab to Gradescope by the Friday 5 pm deadline with all public test cases passing.** To earn attendance credit, students must attend the entire discussion and lab section unless they have approval from their GSI to arrive late or leave early. Failure to attend the entire section without prior communication will result in losing attendance credit for that week.
+Regular lab meetings are two hours long. The first hour focuses on the discussion worksheet and group problem-solving. There will be no technology allowed during this portion of the lab (all materials required will be available at the lab section). The second hour is dedicated to completing the programming-based lab assignment. 80% of lab credit will be attendance-based. The remaining 20% of credit will be awarded for submitting the programming-based assignment to Gradescope by the Friday 5 pm PT deadline with all test cases passing. Discussion worksheets do not need to be submitted. Active participation in the discussion and lab is required to earn attendance credit. 
 
-Students will be awarded two lab drops to use in the event of extenuating circumstances that prevent them from attending the lab in person. To use a lab drop, you must message your GSI at least one hour prior to the start of your lab, informing them that you will not be in attendance. *Note that lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending*. For specific concerns related to your lab section, contact your GSI. 
+Students will be given two lab drops to use in the event of extenuating circumstances that prevent them from completing the assignment. To use a lab drop, you must message your GSI at least one hour prior to the start of your lab, informing them that you will not be in attendance. Note that lab drops are expected to be used only in the case of illness, emergencies, or other circumstances that prevent you from attending. For specific concerns related to your lab section, contact your GSI.
+
+Regular lab sessions will not be webcast or recorded.
 
 _Self-Service Lab_
 
-Students in the self-service lab must submit the weekly lab assignment to Gradescope by Friday, 5 pm. While no class time will be reserved for the lab assignment, there will be office hours to assist students with completing the lab. Lab assignments include automatic feedback, so completing the lab assignment in full guarantees you a perfect score. Please note that there will be no attendance credit for self service labs. Your lab score will be solely based on your test cases (i.e. if you pass 80% of test cases you will receive a score of 80% on that lab).
+Students in the self-service lab must submit the weekly programming-based assignment to Gradescope by Friday, 5 pm PT. While no class time will be reserved for this assignment, you may use office hours to help you complete the lab. Lab assignments include automatic feedback, so completing the lab assignment in full guarantees you a perfect score. Please note that there will be no attendance credit for self service labs. Your lab score will be solely based on your test cases (i.e. if you pass 80% of test cases you will receive a score of 80% on that lab).
 
 Each student will be automatically awarded two lab drops that will be applied at the end of the semester. Please note that these lab drops are meant to be used only in the event of illness, emergency, or other extenuating circumstances; the expectation is that students will complete all assignments to the best of their abilities. 
 
 _Choosing a Lab Format_
 
+
 First-year students and students without prior programming experience are strongly encouraged to choose the regular lab. Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn, especially if this is your first exposure to coding!
 
-The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. However, the regular lab format has advantages for students who wish to practice materials in a discussion-based format, work with others and have a dedicated lab uGSI and tutors for immediate support during lab time. 
+The self-service lab is designed to appeal to students who learn well from large-format lectures, work independently at their own pace, and come to drop-in office hours when they need help. However, the regular lab format has advantages for students who wish to practice materials in a discussion-based format,work with others and have a dedicated lab uGSI and tutors for immediate support during lab time. 
 
-### Homework and Projects
+_Want to Switch your Lab Format?_
 
-Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/sp25/policies/#learning-cooperatively) section below.
+Students may switch formats at two points throughout the semester (1) during the first week of lab sections (between the start of Lab 1 and the start of Lab 2) and (2) after the midterm scores have been released. Please note that students looking to switch from self service to regular lab following the midterm will only be able to do so if capacity in lab sections are available. Additionally, if at any point a student has chosen the self service format, their lab grade will be solely based on the completion of the lab notebook, regardless of if they are attending a regular lab (e.g. if a student switches into a regular lab section from self service post-midterm, their credit will still be awarded based on the percentage of test cases passed). 
 
-Homework will be released on Thursday and due the following Wednesday. Similar to the lab policy discussed above, students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances. 
+_How Should You Submit The Programming-Based Assignment?_
 
-There are 3 projects throughout the semester. A checkpoint must be reached by the following Friday after the project is released, and the whole project is due by the following Friday after the checkpoint.
+[Here](https://drive.google.com/file/d/1ZyLpxcqYubKEyxphk5K-OZRRkphUVFQi/view?usp=sharing) is a video for how to submit the programming assignment to Gradescope. Before posting about code errors, please check our [debugging page](https://www.data8.org/sp25/debugging/)! We have listed common errors and reasons why they might be coming up for you.
 
-If you submit a homework or project 24 hours before the deadline or earlier, you will receive 5 bonus points on that assignment. No bonuses will be awarded for extensions, unless you have pre-approved DSP accommodations.
+### Homework
 
-Data science is about analyzing real-world data sets, and so you will also complete three projects involving real data. On each project, you may work with a single partner; your partner must be from the lab you enrolled in. Both partners will receive the same score.
+Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you can discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/sp24/policies/#learning-cooperatively) section below.
+
+Homework will be released on Thursday and due the following Wednesday at 5pm PT. Submissions after the deadline will be accepted for 24 hours and will incur a 20% penalty. Any submissions later than 24 hours after the deadline will not be accepted. There are 5 extra points available for submitting on Tuesday at 5pm PT (the day before the regular deadline)! Similar to the lab policy discussed above, students will be awarded two homework drops for the entire semester, only meant to be used for extenuating circumstances. 
+
+Remember, there are resources to help you with assignments, including your homeworks! You can ask questions on Ed in the dedicated homework thread (make sure to navigate to the subquestion thread). Remember to never post your code publicly; please make a private post if you have to post any code. *We also encourage you to review the course policies concerning collaboration and academic honesty.*
+You can also get help at office hours. We highly recommend getting started on the homework earlier, so that if you need help, you can attend OH before the deadline on Wednesday.
+
+_How to Submit Your Homework Assignment_
+
+[Here](https://drive.google.com/file/d/1ZyLpxcqYubKEyxphk5K-OZRRkphUVFQi/view?usp=sharing) is a link to a video on the assignment submission process (make sure you’re logged into your Berkeley e-mail). Unlike labs, there are separate tests we run in addition to the ones you see in your Notebook! In order to pass these, make sure your code solves the general problem at hand and not only a specific case of the problem. 
+As a reminder, it is your responsibility to make sure the autograder tests results in the notebook match the autograder results on Gradescope after you submit. Check out our [DataHub Guide](https://www.data8.org/sp25/debugging/) if you run into any issues working on Jupyter Notebook before posting on Ed.
+
+### Projects
+
+
+Data science is about analyzing real-world data sets, and so you will also complete three projects involving real data. The experience of solving the problems in this project will prepare you for exams (and life in a data scientist role). On each project, you may work with a single partner; your partner must be from the lab you enrolled in. If you are in the self-service lab and wish to have a partner, we will have a dedicated thread on Ed where you may find one! Both partners will receive the same score and are equally responsible for the work submitted! You may also work on your own. 
+
+There are 3 projects throughout the semester. A checkpoint must be reached by the following Friday after the project is released (this is roughly half of the project) and the whole project is due by the following Friday after the checkpoint. The goal of the checkpoint is for students to have made some progress on the project before the week it's due! We will not be offering extensions on the checkpoint. If you submit a project 24 hours before the deadline or earlier, you will receive 5 bonus points on that assignment. No bonuses will be awarded for extensions, unless you have pre-approved DSP accommodations. 
+
+
+
+Don't share your code with anybody but your partner. You are welcome to discuss questions with other students but don't share the answers. If someone (who is not your partner) asks you for the answer, resist! Instead, you might demonstrate how you would solve a similar problem.
+
+The projects can seem long and difficult, but you are not alone! Come to office hours, post on Ed, and talk to your classmates. If you want to ask about the details of your solution to a problem, make a private Ed post and the staff will respond. If you're ever feeling overwhelmed or don't know how to make progress, email your TA or tutor for help. You can find contact information for the staff on the course website. We highly recommend starting early.
+
+_Submitting your Project with a Partner_
+
+You may reference [this walkthrough video](https://drive.google.com/file/d/12lBUSu5hFOZCdBE5QTQuBalT0nMgRhyC/view?usp=sharing) on how to add partners on Gradescope! Only one of you should submit the project.
 
 ### Exams
 
-The midterm exam will be TENTATIVELY held on Friday, March 14 from 7-9pm PT. Please note the date and time carefully.
+The midterm exam will be TENTATIVELY held on Friday, October 18 from 7-9pm PT. Please note the date and time carefully.
 
-The final exam is required for a passing grade, and will be held on Tuesday, May 13, from 7-10pm PT.
+The final exam is required for a passing grade, and will be held on Monday, December 16, from 8-11am PT.
 
 There will be one alternate exam for the midterm which is only for those with exam conflicts. There will not be an alternate exam for the final exam. All exams will be held in-person.
 
@@ -109,11 +139,11 @@ Grades will be assigned using the following weighted components. Every assignmen
 | --- | --- |
 | Lab Credit | 10% |
 | Homeworks | 20% |
-| Projects | 25% |
-| Midterm | 15% |
+| Projects | 20% |
+| Midterm | 20% |
 | Final | 30% |
 
-The staff will not respond to any questions regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
+The instructor nor the TA will respond to any questions regarding grade bins or letter grades. Please consult Berkeleytime for historical distributions of grade bins!
 
 Grades for Homeworks, Projects, and Labs will be posted on Gradescope about 1 week after the assignment's due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay reviewing your work.
 
@@ -121,7 +151,7 @@ For the midterm exam, there will be a regrade request submission window. Please 
 
 ### Submitting Assignments
 
-All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1ZyLpxcqYubKEyxphk5K-OZRRkphUVFQi/view?usp=sharing) for submitting assignments. 
+All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1KmrTv1uPL-Axqw4772fcnCHO_jj_wPcn/view?usp=drive_link) for submitting assignments.
 
 We understand that the submission process is new for many students taking the course. To account for this, we will do our best to accommodate submission-related issues (submitting to the wrong assignment, not saving files correctly, autograder timing out) up until the third week of the course. After the third week, it is **your responsibility** to confirm you have submitted your work correctly. We reserve the right to impose penalties for having to resubmit students’ work beyond this point.
 
@@ -131,11 +161,11 @@ The deadline for all assignments in this course is **5 PM PST**.  **Submissions 
 
 If you need an extension, instructions on how to request an assignment extension are in the following section.
 
-Your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade. If you have an ongoing situation that prevents you from completing course content, please contact the course instructor..
+Your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade. If you have an ongoing situation that prevents you from completing course content, please contact the course instructor.
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc2CSE_Ie_TR0r7lV7-JX0zNagoJ08t-EAK48iCAc3rVgHIXw/viewform). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>Extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong> Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this form (coming soon, link TBD). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 <u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
 
@@ -181,15 +211,17 @@ From Prof. Jeremy:
 
 It can be very tough to be a student at this school! There are applications to clubs and grade requirements to declare majors, which are two things I did not have to experience as an undergrad. Some of you are navigating other challenges, like being a parent or commuting long distances from home to campus. I've learned these things from my students during my time so far here teaching, and if you have any other things you'd like to share with me about your experiences or if you just need someone to talk to about your academic struggles or your future path, I can be there for you. 
 
-The tutors and GSIs might be an even better resource than myself for some topics, because they are students just like you. So feel free to have conversations with them as well. They can also tell you a little bit about what being an Academic Student Employee (ASE) is like. 
+The tutors and TAs might be an even better resource than myself for some topics, because they are students just like you. So feel free to have conversations with them as well. They can also tell you a little bit about what being an Academic Student Employee (ASE) is like. 
 
 With regards to reports of sexual misconduct/violence/assault, you may speak with me (and with the course staff, for that matter), but know that we will need to report the discussion to the Title IX officer. This is detailed below.
 
 > As UC employees, I and the tutors are "Responsible Employees" and are therefore required to report incidents of sexual violence, sexual harassment, or other conduct prohibited by University policy to the Title IX officer. We cannot keep reports of sexual harassment or sexual violence confidential, but the Title IX officer will consider requests for confidentiality. Note that there are confidential resources available to you through UCB's PATH to Care Center, which serves survivors of sexual violence and sexual harassment; call their 24/7 Care Line at 510-643-2005.
 
+
 _Data Science Student Climate_
 
 [Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
+
 
 Below are some campus resources that also may be helpful during the semester:
 
