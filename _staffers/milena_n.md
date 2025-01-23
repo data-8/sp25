@@ -1,5 +1,5 @@
 ---
-name: milena novakovic
+name: Milena Novakovic
 email: mnovakovic@berkeley.edu
 pronouns: SHE/HER
 photo: staff/milena_n.jpeg
