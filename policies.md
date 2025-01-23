@@ -52,7 +52,7 @@ Small-group tutoring sessions will be available for students needing additional 
 
 ### Live Lecture
 
-Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
+Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 11:10am in Wheeler 150. Recordings of these sessions will be provided, but students are highly encouraged to attend in real-time. Slides and lecture examples will be provided on the course website.
 
 ### Labs
 
