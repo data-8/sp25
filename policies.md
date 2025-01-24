@@ -165,7 +165,7 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdcVhd9WIXn0uegFEX8QVTEEre4oqv5oqQc6bXkNPkG_VIl7g/viewform?usp=sf_link). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSebp86RhH3cWG1_4v6dR5f_WyJ_icj3cmXoUy9p4C30typmOw/viewform?usp=sharing). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>extension requests need to be submitted at least 24 hours before the deadline to be considered. </strong>. Extensions requests are subject to more detailed review and may require a meeting with course staff or be denied. However, we will try to accommodate requests if they are reasonable and the new deadline does not extend past the solution release date.
 
 <u><strong>Please read the entirety of the form and its instructions before/while submitting a request to reduce confusion</strong></u>. 
 
