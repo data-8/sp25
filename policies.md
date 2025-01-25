@@ -86,7 +86,7 @@ The self-service lab is designed to appeal to students who learn well from large
 
 _Want to Switch your Lab Format?_
 
-Students may switch formats at two points throughout the semester (1) during the first week of lab sections (between the start of Lab 1 and the start of Lab 2) and (2) after the midterm scores have been released. Please note that students looking to switch from self service to regular lab following the midterm will only be able to do so if capacity in lab sections are available. Additionally, if at any point a student has chosen the self service format, their lab grade will be solely based on the completion of the lab notebook, regardless of if they are attending a regular lab (e.g. if a student switches into a regular lab section from self service post-midterm, their credit will still be awarded based on the percentage of test cases passed). 
+Students may switch formats at two points throughout the semester (1) during the first week of lab sections (between the start of Lab 1 and the start of Lab 2) and (2) after the midterm scores have been released. Please note that students looking to switch from self service to regular lab following the midterm will only be able to do so if capacity in lab sections are available. Additionally, if at any point after Week 2 a student has chosen the self service format, their lab grade will be solely based on the completion of the lab notebook, regardless of if they are attending a regular lab (e.g. if a student switches into a regular lab section from self service post-midterm, their credit will still be awarded based on the percentage of test cases passed).
 
 _How Should You Submit The Programming-Based Assignment?_
 
