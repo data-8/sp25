@@ -43,7 +43,7 @@ The easiest way to deploy your site is with [GitHub Pages](https://docs.github.c
 
 ## Contributing
 
-See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for instructions on how to develop this site as part of course staff or if you're interested in contributing to this template repository.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to develop this site as part of course staff or if you're interested in contributing to this template repository.
 
 ## License
 
