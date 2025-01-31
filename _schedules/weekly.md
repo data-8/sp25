@@ -53,6 +53,10 @@ schedule:
         location: Warren 101-B
   - name: Thursday
     events:  
+      - name: Professor Office Hours
+        start: 9:00 AM
+        end: 11:00 AM
+        location: Evans 340
       - name: Office Hours
         start: 12:00 PM
         end: 3:00 PM
