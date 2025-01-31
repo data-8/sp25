@@ -4,8 +4,8 @@ Managed by Spring 2025 #TeamContent:
 * Leads: Ella DeGuzman and Brandon Su
 * Members: TBD
 
-[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
-[![a11y specs](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml)
+[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-8/sp25/actions/workflows/jekyll.yml) •
+[![a11y specs](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-8/sp25/actions/workflows/rspec.yml)
 
 The https://www.data8.org/sp25/ website.
 
@@ -40,10 +40,6 @@ Search throughout the repository for TODO items called `TODO(setup)` and complet
 ## Deployment
 
 The easiest way to deploy your site is with [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to develop this site as part of course staff or if you're interested in contributing to this template repository.
 
 ## License
 
