@@ -53,7 +53,7 @@ schedule:
         location: Warren 101-B
   - name: Thursday
     events:  
-      - name: Professor Office Hours
+      - name: Instructor OH
         start: 9:00 AM
         end: 11:00 AM
         location: Evans 340
