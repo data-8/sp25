@@ -8,7 +8,7 @@ Feb 3
 : **6**{: .label} Case Study: Census
     : {{site.links.lec.slides.slide06}} {{site.links.lec.demo.demo06}}
 : _Reading:_ [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab03}} <!-- (Due 9/13) -->
+: **Lab**{: .label .label-lab} {{site.links.lab.lab03}} (Due 2/7)  <!-- (Due 9/13) -->
 
 Feb 5
 : **7**{: .label} Data Visualization
