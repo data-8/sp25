@@ -18,8 +18,8 @@ Feb 12
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht04}}
 
 Feb 14
-: **11**{: .label} Pivots and Joins
+: **11**{: .label} Pivots, Joins and Conditional Statements
     : {{site.links.lec.slides.slide11}} {{site.links.lec.demo.demo11}}
-: _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
+: _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw04}} <!-- (Due 9/13) -->
 : **Project**{: .label .label-project} {{site.links.proj.proj1}} <!-- (Due Fri 10/4, Checkpoint Fri 9/27) -->
