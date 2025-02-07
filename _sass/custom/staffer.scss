@@ -33,6 +33,7 @@
 
   .staffer-pronouns {
     @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+    margin: 0 !important;
   }
 
   .staffer-bio {

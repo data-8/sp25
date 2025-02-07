@@ -156,6 +156,10 @@
     border-radius: 6px;
   
   }
+
+  .label-Pronouns {
+    @extend .text-grey-dk-100, .bg-grey-lt-200;
+  }
   
   .label-Scholars {
     background-color: #935CBC;
