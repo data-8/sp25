@@ -6,4 +6,5 @@ photo: staff/bing_c.jpeg
 website: https://linktr.ee/bingsp25
 bio: Me 🤝 Data 8
 role: uGSI (UCS2)
+team: Grading
 ---

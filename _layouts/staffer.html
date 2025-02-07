@@ -16,15 +16,6 @@
   {% if page.hover-photo %} data-hover="{{ site.baseurl }}{{ page.subpath }}{{ page.hover-photo }}"{% endif %} alt="">
   {% endif %}
   <div>
-    {%- if page.team -%}
-    {%- assign team_name = page.team -%}
-    {%- if team_name contains "TA" -%}
-        {%- assign stripped_name = team_name | replace: "TA", "" -%}
-        <span class="team label-{{ team_name }}">{{ stripped_name | strip }}</span>
-    {%- else -%}
-        <span class="team label-{{ team_name }}">{{ team_name }}</span>
-    {%- endif -%}
-    {%- endif -%}
     <h3 class="staffer-name" id="{{ page.name | slugify }}">
       {%- if page.website -%}
       <a href="{{ page.website }}">{{ page.name }}</a>
@@ -34,15 +25,25 @@
     </h3>
 
     {%- if page.pronouns -%}
-    <span class="staffer-pronouns">{{ page.pronouns }}</span>
+    <span class="team label-Pronouns">{{ page.pronouns }}</span>
     {%- endif -%}
-    
+
+    {%- if page.team -%}
+    {%- assign team_name = page.team -%}
+    {%- if team_name contains "TA" -%}
+        {%- assign stripped_name = team_name | replace: "TA", "" -%}
+        <span class="team label-{{ team_name }}">{{ stripped_name | strip }}</span>
+    {%- else -%}
+        <span class="team label-{{ team_name }}">{{ team_name }}</span>
+    {%- endif -%}
+    {%- endif -%}
+
     {%- if page.email -%}
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
     {%- endif -%}
 
-    {%- if page.office-hours -%} <!--Change the underscore to a hyphen when you want to display it-->
-    <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
+    {%- if page.office-hours -%}
+		<p class="staffer-meta" style="font-weight: 500 !important; margin-bottom: 6pt !important;">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
     {%- endif -%}
 
     {%- if page.bio -%}
