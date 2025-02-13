@@ -10,9 +10,9 @@ Feb 17
 
 
 Feb 19
-: **12**{: .label} Iteration and Conditionals
+: **12**{: .label} Conditionals and Iteration
     : {{site.links.lec.slides.slide12}} {{site.links.lec.demo.demo12}}
-: _Reading:_ [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
+: _Reading:_ [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht05}}
 
 

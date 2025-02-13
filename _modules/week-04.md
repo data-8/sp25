@@ -18,8 +18,8 @@ Feb 12
 : _Reading:_ [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html)
 
 Feb 14
-: **11**{: .label} Pivots, Joins and Conditional Statements
+: **11**{: .label} Pivots and Joins
     : {{site.links.lec.slides.slide11}} {{site.links.lec.demo.demo11}}
-: _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html)
+: _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw04}} <!-- (Due 9/13) -->
 : **Project**{: .label .label-project} {{site.links.proj.proj1}} <!-- (Due Fri 10/4, Checkpoint Fri 9/27) -->
