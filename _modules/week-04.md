@@ -21,5 +21,5 @@ Feb 14
 : **11**{: .label} Pivots and Joins
     : {{site.links.lec.slides.slide11}} {{site.links.lec.demo.demo11}}
 : _Reading:_ [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw04}} <!-- (Due 9/13) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw04}} (Due 2/19)
 : **Project**{: .label .label-project} {{site.links.proj.proj1}} <!-- (Due Fri 10/4, Checkpoint Fri 9/27) -->
