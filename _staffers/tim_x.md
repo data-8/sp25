@@ -1,9 +1,11 @@
 ---
 name: Tim Xie
-email: tim.xie@berkeley.edu
+email: xie@berkeley.edu
 pronouns: HE/HIM
 photo: staff/tim_x.jpeg
-website: https://tim-xie.com
-bio: hi! i’m a sophomore from new zealand, studying maths and cs. looking forward to another great semester!
+website: https://xie.nz/d8
+office-hours: Tue 10-11am, Wed 1-2pm
+bio: hi! i’m a sophomore from new zealand, looking forward to another great semester!
 role: uGSI (UCS2)
+team: Content
 ---
