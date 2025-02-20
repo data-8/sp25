@@ -73,7 +73,7 @@ description: >-
 
 <details>
   <summary><strong>I’m positive I have the right answer, but the test fails. Is there a mistake in the test?</strong></summary>
-  < style="margin-left:16px;">While you might see the correct answer displayed as the result of the cell, chances are it isn’t being stored in the answer variable. Make sure you are assigning the result to the answer variable. Make sure there are no typos in the variable name.
+  <p style="margin-left:16px;">While you might see the correct answer displayed as the result of the cell, chances are it isn’t being stored in the answer variable. Make sure you are assigning the result to the answer variable. Make sure there are no typos in the variable name.
 </p>
 </details>
 
