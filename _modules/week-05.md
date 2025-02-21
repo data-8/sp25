@@ -17,7 +17,7 @@ Feb 19
 
 
 Feb 21
-: **13**{: .label} Chance
+: **13**{: .label} Probability and Simulation
     : {{site.links.lec.slides.slide13}} {{site.links.lec.demo.demo13}}
 : _Reading:_ [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html), [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw05}} <!-- (Due 9/13) -->
