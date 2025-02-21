@@ -6,7 +6,7 @@ status: Active
 Feb 24
 : **14**{: .label} Empirical and Probability Distributions
     : {{site.links.lec.slides.slide14}} {{site.links.lec.demo.demo14}}
-: _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
+: _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html), [10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab05}} <!-- (Due 9/13) -->
 
 
