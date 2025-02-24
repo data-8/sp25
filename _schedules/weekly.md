@@ -51,6 +51,10 @@ schedule:
         start: 1:00 PM
         end: 4:00 PM
         location: Warren 101-B
+      - name: Project Party
+        start: 6:00 PM
+        end: 8:00 PM
+        location: Evans 2
   - name: Thursday
     events:  
       - name: Instructor OH
