@@ -104,9 +104,13 @@
     &.instructor-oh {
       background-color: darken($purple-100, 15%);
     }
+    &.project-party {
+      background-color: darken($purple-100, 15%);
+    }
 
     &.office-hours {
       background-color: darken($green-200, 10%);
     }
+    
   }
 }
