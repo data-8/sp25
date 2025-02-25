@@ -23,7 +23,7 @@ git clone git@github.com:YOUR_GITHUB_USERNAME/YOUR_REPO.git
 ```
 3. Install dependencies:
 ```
-cd YOUR_REPO
+cd sp25
 bundle install
 ```
 
