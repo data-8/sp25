@@ -7,14 +7,15 @@ Feb 24
 : **14**{: .label} Sampling and Empirical Distributions
     : {{site.links.lec.slides.slide14}} {{site.links.lec.demo.demo14}}
 : _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html), [10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab05}} <!-- (Due 9/13) -->
+: **Lab**{: .label .label-lab} {{site.links.lab.lab05}} (Due 2/28)
+: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht06}}
 
 
 Feb 26
 : **15**{: .label} Models
     : {{site.links.lec.slides.slide15}} {{site.links.lec.demo.demo15}}
 : _Reading:_ [10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html), [10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html), [10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html)
-: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht06}}
+
 
 
 Feb 28
