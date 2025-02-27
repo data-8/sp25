@@ -8,6 +8,7 @@ Apr 21
 : **35**{: .label} Implementing Classifiers
     : {{site.links.lec.slides.slide35}} {{site.links.lec.demo.demo35}}
 : _Reading:_ [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html), [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
+: **Lab**{: .label .label-lab} Project 3 Checkpoint
 
 Apr 23
 : **36**{: .label} Evaluating Classifiers 
