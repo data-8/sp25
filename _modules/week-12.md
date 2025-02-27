@@ -8,6 +8,7 @@ Apr 7
 : **29**{: .label} Correlation
     : {{site.links.lec.slides.slide29}} {{site.links.lec.demo.demo29}}
 : _Reading:_ [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
+: **Lab**{: .label .label-lab} Project 2 Checkpoint
 
 Apr 9
 : **30**{: .label} The Regression Line
