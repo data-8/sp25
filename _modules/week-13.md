@@ -20,5 +20,5 @@ Apr 18
 : **34**{: .label} Intro to Classification
     : {{site.links.lec.slides.slide34}} {{site.links.lec.demo.demo34}}
 : _Reading:_ [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw11}} <!-- (Due 11/1) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw10}} <!-- (Due 11/1) -->
 : **Project**{: .label .label-project} {{site.links.proj.proj3}} <!-- (Due Fri 12/6, Checkpoint Fri 11/22) -->

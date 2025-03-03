@@ -20,4 +20,4 @@ Mar 21
 : **25**{: .label} Center and Spread
     : {{site.links.lec.slides.slide25}} {{site.links.lec.demo.demo25}}
 : _Reading:_ [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw08}} <!-- (Due 9/13) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw07}} <!-- (Due 9/13) -->
