@@ -20,4 +20,4 @@ Apr 25
 : **37**{: .label} Multiple Linear Regression
     : {{site.links.lec.slides.slide37}} {{site.links.lec.demo.demo37}}
 : _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw12}} <!-- (Due 11/26) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw11}} <!-- (Due 11/26) -->

@@ -22,4 +22,3 @@ Mar 7
 : **19**{: .label} Hypothesis Testing and Causality
     : {{site.links.lec.slides.slide19}} {{site.links.lec.demo.demo19}}
 : _Reading:_ [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html), [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw07}} <!-- (Due 9/13) -->

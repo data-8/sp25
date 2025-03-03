@@ -20,4 +20,4 @@ Apr 11
 : **31**{: .label} The Method of Least Squares
   : {{site.links.lec.slides.slide31}} {{site.links.lec.demo.demo31}}
 : _Reading:_ [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw10}} <!-- (Due 11/1) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw09}} <!-- (Due 11/1) -->
