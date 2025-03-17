@@ -8,7 +8,7 @@ Mar 17
 : **23**{: .label} Confidence Intervals
     : {{site.links.lec.slides.slide23}} {{site.links.lec.demo.demo23}}
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab07}} <!-- (Due 9/13) -->
+: **Lab**{: .label .label-lab} {{site.links.lab.lab07}} (Due 3/21)
 
 Mar 19
 : **24**{: .label} Interpreting Confidence
@@ -20,4 +20,4 @@ Mar 21
 : **25**{: .label} Center and Spread
     : {{site.links.lec.slides.slide25}} {{site.links.lec.demo.demo25}}
 : _Reading:_ [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw07}} <!-- (Due 9/13) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw07}} (Due 4/2)

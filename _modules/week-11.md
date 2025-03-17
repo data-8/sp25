@@ -8,7 +8,7 @@ Mar 31
 : **26**{: .label} Sample Means
     : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
 : _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab08}} <!-- (Due 11/1) -->
+: **Lab**{: .label .label-lab} {{site.links.lab.lab08}} (Due 4/4)
 
 Apr 2
 : **27**{: .label} The Normal Distribution
@@ -20,5 +20,5 @@ Apr 4
 : **28**{: .label} Choosing a Sample Size
   : {{site.links.lec.slides.slide28}} {{site.links.lec.demo.demo28}}
 : _Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw08}} <!-- (Due 11/6) -->
-: **Project**{: .label .label-project} {{site.links.proj.proj2}} <!-- (Due Fri 11/15, Checkpoint Fri 11/8) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw08}} (Due 4/9)
+: **Project**{: .label .label-project} {{site.links.proj.proj2}} (Due Fri 4/18, Checkpoint Fri 4/11)

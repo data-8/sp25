@@ -8,7 +8,7 @@ Apr 14
 : **32**{: .label} Residuals
   : {{site.links.lec.slides.slide32}} {{site.links.lec.demo.demo32}}
 : _Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab09}} <!-- (Due 11/1) -->
+: **Lab**{: .label .label-lab} {{site.links.lab.lab09}} (Due 4/18)
 
 Apr 16
 : **33**{: .label} Regression Inference
@@ -20,5 +20,5 @@ Apr 18
 : **34**{: .label} Intro to Classification
     : {{site.links.lec.slides.slide34}} {{site.links.lec.demo.demo34}}
 : _Reading:_ [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html)
-: **Homework**{: .label .label-homework} {{site.links.hw.hw10}} <!-- (Due 11/1) -->
-: **Project**{: .label .label-project} {{site.links.proj.proj3}} <!-- (Due Fri 12/6, Checkpoint Fri 11/22) -->
+: **Homework**{: .label .label-homework} {{site.links.hw.hw10}} (Due 4/23)
+: **Project**{: .label .label-project} {{site.links.proj.proj3}} (Due Fri 5/2, Checkpoint Fri 4/25)
