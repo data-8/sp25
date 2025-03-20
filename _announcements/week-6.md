@@ -5,9 +5,9 @@ date: 2025-02-23
 ---
 
 1. **Assignments Due**
-    * **Homework**{: .label .label-homework}{{site.links.hw.hw05}} is due on *<u>Wednesday</u>, February 26th @ 5 PM*
-    * **Lab**{: .label .label-lab}{{site.links.lab.lab05}} is due on *<u>Friday</u>, February 28th @ 5 PM*
-    * **Project**{: .label .label-project}{{site.links.proj.proj1}}
+    * {{site.links.hw.hw05}} is due on *<u>Wednesday</u>, February 26th @ 5 PM*
+    * {{site.links.lab.lab05}} is due on *<u>Friday</u>, February 28th @ 5 PM*
+    * {{site.links.proj.proj1}}
         * Everything due on *<u>Friday</u>, February 28th @ 5 PM*
         * Make sure to add your project partner to your written and autograder submission!
 2. **The midterm is on Friday, 3/14, 7-9 PM**

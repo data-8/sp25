@@ -5,9 +5,9 @@ date: 2025-02-16
 ---
 
 1. **Assignments Due**
-    * **Homework**{: .label .label-homework}{{site.links.hw.hw04}} is due on *<u>Wednesday</u>, February 19th @ 5 PM*
-    * **Homework**{: .label .label-homework}{{site.links.hw.hw05}} is due on *<u>Wednesday</u>, February 26th @ 5 PM*
-    * **Project**{: .label .label-Project}{{site.links.proj.proj1}}
+    * {{site.links.hw.hw04}} is due on *<u>Wednesday</u>, February 19th @ 5 PM*
+    * {{site.links.hw.hw05}} is due on *<u>Wednesday</u>, February 26th @ 5 PM*
+    * {{site.links.proj.proj1}}
         * Checkpoint due on *<u>Friday</u>, February 21st @ 5 PM*
         * Everything due on *<u>Friday</u>, February 28th @ 5 PM*
 2. **The midterm is on Friday, 3/14, 7-9 PM**
