@@ -28,21 +28,22 @@ $border-color: $grey-dk-200;
 
 // Override dark-mode variables here
 $berkeley-blue: #002676; // rgb(0, 38, 118);
-$grey-dk-400: #0C0A0E !default;
+$grey-dk-400: #1a1a1a !default;
 $body-background-color: $grey-dk-400;
 $sidebar-color: $grey-dk-400;
 $search-background-color: $grey-dk-400;
-$body-text-color: $white;
+$body-text-color: #dddddd;
 $body-lighter-color: darken($body-text-color, 20%);
+$box-shadow: 0 1px 3px rgba(233, 233, 233, 0.07), 0 4px 14px rgba(233, 233, 233, 0.05);
 
 $link-color: #7698fE;
-$hover-focus-link-color: darken($link-color, 10%);
+$hover-focus-link-color: darken($link-color, 20%);
 
 // TODO(template): We need to figure out a much better solution!
 // This swaps the "dk" and "lt" variants from the original JTD files.
 $grey-lt-000: #959396;
 $grey-lt-100: #5c5962;
-$grey-lt-200: #44434d;
+$grey-lt-200: #434d4c;
 $grey-lt-250: #302d36;
 $grey-lt-300: #27262b;
 

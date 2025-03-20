@@ -1,5 +1,5 @@
 @mixin abstract-card() {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
+  box-shadow: $box-shadow;
   margin: $sp-4 (-$gutter-spacing-sm);
 
   @include mq(md) {
@@ -33,30 +33,31 @@
     color: $grey-dk-100;
 
     &.label-lab {
-      background-color: #0B8460;
+      background-color: #18916d;
       color: white;
     }
     &.label-homework {
-      background-color: #AE1313;
+      background-color: #a43434;
       color: white;
     }
     &.label-discussion {
-      background-color: #8D00C9;
+      background-color: #7d3a9a;
       color: white;
     }
     &.label-exam {
-      background-color: #967103;
+      background-color: #9b7d24;
       color: white;
     }
     &.label-survey {
-      background-color: $blue-100;
+      background-color: #2d41b2;
       color: white;
     }
     &.label-project {
-      background-color: $blue-100;
+      background-color: #2d41b2;
       color: white;
     }
 
     
   }
+
 }
