@@ -5,15 +5,15 @@ status: Active
 ---
 
 Mar 31
-: **26**{: .label} Sample Means
-    : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
-: _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
+: **26**{: .label} The Normal Distribution
+    : {{site.links.lec.slides.slide26}} {{site.links.lec.demo.demo26}}
+: _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab08}} (Due 4/4)
 
 Apr 2
-: **27**{: .label} The Normal Distribution
-    : {{site.links.lec.slides.slide26}} {{site.links.lec.demo.demo26}}
-: _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
+: **27**{: .label} Sample Means
+    : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
+: _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht10}}
 
 Apr 4
