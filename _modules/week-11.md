@@ -12,7 +12,7 @@ Mar 31
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht10}}
 
 Apr 2
-: **27**{: .label} Sample Means
+: **27**{: .label} The Variability of the Sample Mean
     : {{site.links.lec.slides.slide27}} {{site.links.lec.demo.demo27}}
 : _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
 
