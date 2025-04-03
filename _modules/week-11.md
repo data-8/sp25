@@ -18,7 +18,7 @@ Apr 2
 
 
 Apr 4
-: **28**{: .label} Choosing a Sample Size
+: **28**{: .label} Case Study: Election Pollsters
   : {{site.links.lec.slides.slide28}} {{site.links.lec.demo.demo28}}
 : _Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw08}} (Due 4/9)
