@@ -6,7 +6,7 @@ status: Active
 
 Feb 17
 : **Presidents' Day**{: .label} No class
-: **Lab**{: .label .label-lab} Project 1 Checkpoint
+: **Lab**{: .label .label-lab} {{site.links.proj.proj1c}}
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht05}}
 
 

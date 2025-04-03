@@ -14,7 +14,7 @@ Apr 9
 : **30**{: .label} The Regression Line
     : {{site.links.lec.slides.slide30}} {{site.links.lec.demo.demo30}}
 : _Reading:_ [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
-: **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht11}}
+: **Discussion**{: .label .label-discussion} {{site.links.proj.proj2c}}
 
 Apr 11
 : **31**{: .label} The Method of Least Squares
