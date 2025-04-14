@@ -7,7 +7,7 @@ status: Active
 Apr 14
 : **32**{: .label} Residuals
   : {{site.links.lec.slides.slide32}} {{site.links.lec.demo.demo32}}
-: _Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
+: _Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab09}} (Due 4/18)
 
 Apr 16
