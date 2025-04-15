@@ -54,7 +54,7 @@ schedule:
       - name: Project Party
         start: 6:00 PM
         end: 8:00 PM
-        location: Evans 2
+        location: Wurster 102
   - name: Thursday
     events:  
       - name: Instructor OH
