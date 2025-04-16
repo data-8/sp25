@@ -5,7 +5,7 @@ date: 2025-04-13
 ---
 
 1. **Assignments Due**
-    * {{site.links.hw.hw09}} is due on *<u>Wednesday</u>, April 16rd @ 5 PM*
+    * {{site.links.hw.hw09}} is due on *<u>Wednesday</u>, April 16th @ 5 PM*
     * {{site.links.proj.proj2}} is due on *<u>Friday</u>, April 18th @ 5 PM*
     * {{site.links.lab.lab09}} is due on *<u>Friday</u>, April 18th @ 5 PM*
     * {{site.links.hw.hw10}} is due on *<u>Wednesday</u>, April 23rd @ 5 PM*
