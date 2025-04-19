@@ -244,8 +244,8 @@ links:
     proj1c: "[Project 1 Checkpoint](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Fproject%2Fproject1%2Fproject1.ipynb)"
     proj2: "[Project 2: Climate](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Fproject%2Fproject2%2Fproject2.ipynb)"
     proj2c: "[Project 2 Checkpoint](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Fproject%2Fproject2%2Fproject2.ipynb)"
-    proj3: "Project 3: Movie Classification"
-    proj3c: "Project 3 Checkpoint"
+    proj3: "[Project 3: Movie Classification](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Fproject%2Fproject3%2Fproject3.ipynb)"
+    proj3c: "[Project 3 Checkpoint](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp25&branch=main&urlpath=tree%2Fmaterials-sp25%2Fproject%2Fproject3%2Fproject3.ipynb)"
   lec:
     demo:
       demo01: "&#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-8/materials-sp25&urlpath=tree/materials-sp25/lec/lec01/lec01.ipynb&branch=main)"
