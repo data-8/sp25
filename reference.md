@@ -3,7 +3,7 @@ layout: page
 nav_order: 9
 title: 🐍 Python Reference
 description: >-
-    Python Reference Guide
+  Python Reference Guide
 ---
 
 # **Detailed Python Reference Sheet**
@@ -13,10 +13,11 @@ Created by Nishant Kheterpal and Jessica Hu,
 Contributions by Jonathan Ferrari, Updated and Maintained by Edwin Vargas and Bing Concepcion
 
 ## Table of Contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
@@ -26,16 +27,17 @@ For Spring 2025, students will receive an abbreviated reference sheet for exams.
 
 **Note:** Some concepts on the reference sheet is out of scope for the midterm, including but not limited to -- Bayes’ Rule, Correlation Coefficient, Regression Line in Standard Units, Percent of data within k SDs of the mean table
 
-* [Midterm reference sheet](https://drive.google.com/file/d/1W2y9_W2U_AF4KAdpxeTd59YIDIUK-zM9/view?usp=sharing)
+- [Midterm reference sheet](https://drive.google.com/file/d/1W2y9_W2U_AF4KAdpxeTd59YIDIUK-zM9/view?usp=sharing)
 
---- 
+---
 
 ## Table Functions and Methods
+
 In the examples in the left column, `np` refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, `tbl` refers to a table, `array` refers to an array, `str` refers to a string, and `num` refers to a number. `array.item(0)` is an example call for the method item, and in that example, `array` is the name previously given to some array.
 
 | **Name** | **Description** | **Input** | **Output** |
 | `Table()` | Create an empty table, usually to extend with data ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | None | An empty **Table** |
-| `Table().read_table(filename)` | Create a table from a data file ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | **string**: the name of the file | 	**Table** with the contents of the data file |
+| `Table().read_table(filename)` | Create a table from a data file ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | **string**: the name of the file | **Table** with the contents of the data file |
 | `tbl.with_columns(name, values)` <br> `tbl.with_columns(n1, v1, n2, v2,...)` | A table with an additional or replaced column or columns. `name` is a string for the name of a column, `values` is an array ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | 1. **string**: the name of the new column; <br> 2. **array**: the values in that column | **Table**: a copy of the original Table with the new columns added |
 | `tbl.column(column_name_or_index)` | The values of a column (an array) ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | **string** or **int**: the column name or index | **array**: the values in that column |
 | `tbl.num_rows` | Compute the number of rows in a table ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | None | **int**: the number of rows in the table |
@@ -43,7 +45,7 @@ In the examples in the left column, `np` refers to the NumPy module, as usual. E
 | `tbl.labels` | Lists the column labels in a table ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | None | **array**: the names of each column (as strings) in the table |
 | `tbl.select(col1, col2, ...)` | Create a copy of a table with only some of the columns. Each column is the column name or index. ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | **string** _or_ **int**: column name(s) or index(es) | **Table** with the selected columns|
 | `tbl.drop(col1, col2, ...)` | Create a copy of a table without some of the columns. Each column is the column name or index. ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | **string** _or_ **int**: column name(s) or index(es) | **Table** without the selected columns |
-| `tbl.relabeled(old_label, new_label)` |	Creates a new table, changing the column name specified by the old label to the new label, and leaves the original table unchanged. ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | 1. **string**: the old column name <br> 2. **string**: the new column name | **Table**: a new Table |
+| `tbl.relabeled(old_label, new_label)` | Creates a new table, changing the column name specified by the old label to the new label, and leaves the original table unchanged. ([Ch 6](https://inferentialthinking.com/chapters/06/Tables.html)) | 1. **string**: the old column name <br> 2. **string**: the new column name | **Table**: a new Table |
 | `tbl.show(n)` | Display `n` rows of a table. If no argument is specified, defaults to displaying the entire table. ([Ch 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)) | (Optional) **int**: number of rows you want to display | None: displays a table with `n` rows |
 | `tbl.sort(column_name_or_index)` | Create a copy of a table sorted by the values in a column. Defaults to ascending order unless descending = True is included. ([Ch 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)) | 1. **string** _or_ **int**: column index or name <br> 2. (Optional) `descending=True` | **Table**: a copy of the original with the column sorted |
 | `tbl.where(column, predicate)` | Create a copy of a table with only the rows that match some _predicate_. See `Table.where` predicates below. ([Ch 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)) | 1. **string** _or_ **int**: column name or index <br> 2. `are.(...)` predicate | **Table**: a copy of the original table with only the rows that match the predicate |
@@ -51,8 +53,8 @@ In the examples in the left column, `np` refers to the NumPy module, as usual. E
 | `tbl.scatter(x_column, y_column)` | Draws a scatter plot consisting of one point for each row of the table. Note that `x_column` and `y_column` must be strings specifying column names. Include optional argument `fit_line=True` if you want to draw a line of best fit for each set of points. ([Ch 7](https://www.inferentialthinking.com/chapters/07/Visualization.html)) | 1. **string**: name of the column on the x-axis <br> 2. **string**: name of the column on the y-axis <br> 3. (Optional) `fit_line=True` | None: draws a scatter plot |
 | `tbl.plot(x_column, y_column)` <br> `tbl.plot(x_column)` | Draw a line graph consisting of one point for each row of the table. If you only specify one column, it will plot the rest of the columns on the y-axis as different colored lines. ([Ch 7](https://www.inferentialthinking.com/chapters/07/Visualization.html)) | 1. **string**: name of the column on the x-axis <br> 2. **string**: name of the column on the y-axis | None: draws a line graph |
 | `tbl.barh(categories)` <br> `tbl.barh(categories, values)`| Displays a bar chart with bars for each category in a column, with length proportional to the corresponding frequency. values argument unnecessary if table has only a column of categories and a column of values. ([Ch 7.1](https://www.inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)) | 1. **string**: name of the column with categories <br> 2. (Optional) **string**: the name of the column with values for corresponding categories | None: draws a bar chart |
-| `tbl.hist(column, unit, bins, group)` | 	Generates a histogram of the numerical values in a column. `unit` and `bins` are optional arguments, used to label the axes and group the values into intervals (bins), respectively. Bins have the form `[a, b)`, where `a` is included in the bin and `b` is not. ([Ch 7.2](https://www.inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)) | 1. **string**: name of the column with categories <br> 2. (Optional) **string**: units of x-axis <br> 3. (Optional) **array** of ints/floats denoting bin boundaries <br> 4. (Optional) **string**: name of categorical column to draw separate overlaid histograms for | None: draws a histogram |
-| `tbl.bin(column_name_or_index)` <br> `tbl.bin(column_name_or_index, bins)` | 	Groups values into intervals, known as bins. Results in a two-column table that contains the number of rows in each bin. The first column lists the left endpoints of the bins, except in the last row. If the `bins` argument isn't used, default is to produce 10 equally wide bins between the min and max values of the data. ([Ch 7.2](https://www.inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)) | 1. **string** _or_ **int**: column name(s) or index(es) <br> 2. (Optional) **array** of ints/floats denoting bin boundaries or an **int** of the number of bins you want | **Table**: a new tables |
+| `tbl.hist(column, unit, bins, group)` | Generates a histogram of the numerical values in a column. `unit` and `bins` are optional arguments, used to label the axes and group the values into intervals (bins), respectively. Bins have the form `[a, b)`, where `a` is included in the bin and `b` is not. ([Ch 7.2](https://www.inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)) | 1. **string**: name of the column with numerical values <br> 2. (Optional) **string**: units of x-axis <br> 3. (Optional) **array** of ints/floats denoting bin boundaries <br> 4. (Optional) **string**: name of categorical column to draw separate overlaid histograms for | None: draws a histogram |
+| `tbl.bin(column_name_or_index)` <br> `tbl.bin(column_name_or_index, bins)` | Groups values into intervals, known as bins. Results in a two-column table that contains the number of rows in each bin. The first column lists the left endpoints of the bins, except in the last row. If the `bins` argument isn't used, default is to produce 10 equally wide bins between the min and max values of the data. ([Ch 7.2](https://www.inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)) | 1. **string** _or_ **int**: column name(s) or index(es) <br> 2. (Optional) **array** of ints/floats denoting bin boundaries or an **int** of the number of bins you want | **Table**: a new tables |
 | `tbl.apply(function)` <br> `tbl.apply(function, col1, col2, ...)` | Returns an array of values resulting from applying a function to each item in a column. ([Ch 8.1](https://www.inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)) | 1. **function**: function to apply to column <br> 2. (Optional) **string**: name of the column to apply function to (if you have multiple columns, the respective column's values will be passed as the corresponding argument to the function), and if there is no argument, your function will be applied to every row object in `tbl` | **array**: contains an element for each value in the original column after applying the function to it |
 | `tbl.group(column_or_columns, collect)` | Group rows by unique values or combinations of values in a column(s). Multiple columns must be entered in array or list form. Other values aggregated by count (default) or optional argument `collect`. ([Ch 8.2](https://www.inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html)) | 1. **string** or **array of strings**: column(s) on which to group <br> 2. (Optional) **function**: function to aggregate values in cells (defaults to count) | **Table**: a new Table |
 | `tbl.pivot(col1, col2, values, collect)` <br> `tbl.pivot(col1, col2)` | A pivot table where each unique value in `col1` has its own column and each unique value in `col2` has its own row. Count or aggregate values from a third column, collect with some function. Default `values` and `collect` return counts in cells. ([Ch 8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html)) | 1. **string**: name of column whose unique values will make up columns of pivot table <br> 2. **string**: name of column whose unique values will make up rows of pivot table <br> 3. (Optional) **string**: name of column that describes the values of cell <br> 4. (Optional) **function**: how the values are collected, e.g. `sum` or `np.mean` | **Table**: a new Table |
@@ -109,27 +111,28 @@ Any of these predicates can be negated by adding `not_` in front of them, e.g. `
 
 ## Miscellaneous Functions
 
-These are functions in the `datascience` library that are used in the course that don't fall into any of the categories above. You can also read more about all functions in the `datascience` library on the [`datascience` documentation](http://data8.org/datascience/). 
+These are functions in the `datascience` library that are used in the course that don't fall into any of the categories above. You can also read more about all functions in the `datascience` library on the [`datascience` documentation](http://data8.org/datascience/).
 
 | **Name** | **Description** | **Input** | **Output** |
 | `sample_proportions(sample_size, model_proportions)` | `sample_size` should be an integer, `model_proportions` an array of probabilities that sum up to 1. The function samples `sample_size` objects from the distribution specified by `model_proportions`. It returns an array with the same size as `model_proportions`. Each item in the array corresponds to the proportion of times it was sampled out of the `sample_size` times. ([Ch 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)) | 1. **int**: sample size <br> 2. **array**: an array of proportions that should sum to 1 | **array**: each item corresponds to the proportion of times that corresponding item was sampled from `model_proportions` in `sample_size` draws, should sum to 1 |
 | `minimize(function)` | Returns an array of values such that if each value in the array was passed into `function` as arguments, it would minimize the output value of `function`. ([Ch 15.4](https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression)) | **function**: name of a function that will be minimized | **array**: An array in which each element corresponds to an argument that minimizes the output of the function. Values in the array are listed based on the order they are passed into the function; the first element in the array is also going to be the first value passed into the function. |
 
 ## JupyterHub Keyboard Shortcuts
+
 First, to enter shortcut mode/exit editing mode, press `Esc`. This will then enable you to use any of the below keyboard shortcuts.
 
-|Operation|Keys|
-|---|---|
-|To enter shortcut mode/exit editing mode|`Esc`|
-|Enter edit mode | `Enter`|
-|Insert cell above|`a`|
-|Insert cell below|`b`|
-|Delete selected cell|`d` + `d` (Press `d` twice)|
-|Convert cell to Markdown cell | `m` |
-|Convert cell to Code cell | `y` |
-|Undo cell operation|`z`|
-|Copy cell|`c`|
-|Paste cell|`v`|
-|Paste cell above|`Shift` + `v`|
-|Redo|`Ctrl` + `Shift` + `z`|
-|Undo|`Ctrl` + `z`|
+| Operation                                | Keys                        |
+| ---------------------------------------- | --------------------------- |
+| To enter shortcut mode/exit editing mode | `Esc`                       |
+| Enter edit mode                          | `Enter`                     |
+| Insert cell above                        | `a`                         |
+| Insert cell below                        | `b`                         |
+| Delete selected cell                     | `d` + `d` (Press `d` twice) |
+| Convert cell to Markdown cell            | `m`                         |
+| Convert cell to Code cell                | `y`                         |
+| Undo cell operation                      | `z`                         |
+| Copy cell                                | `c`                         |
+| Paste cell                               | `v`                         |
+| Paste cell above                         | `Shift` + `v`               |
+| Redo                                     | `Ctrl` + `Shift` + `z`      |
+| Undo                                     | `Ctrl` + `z`                |
