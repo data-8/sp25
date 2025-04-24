@@ -17,7 +17,7 @@ Apr 23
 : **Discussion**{: .label .label-discussion} {{site.links.wksht.wksht13}}
 
 Apr 25
-: **37**{: .label} Multiple Linear Regression
+: **37**{: .label} Updating Probabilities
     : {{site.links.lec.slides.slide37}} {{site.links.lec.demo.demo37}}
-: _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
+: _Reading:_ [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html), [18.1](https://inferentialthinking.com/chapters/18/1/More_Likely_than_Not_Binary_Classifier.html), [18.2](https://inferentialthinking.com/chapters/18/2/Making_Decisions.html)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw11}} (Due 4/30)

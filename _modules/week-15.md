@@ -5,9 +5,9 @@ status: Active
 ---
 
 Apr 28
-: **38**{: .label} Updating Probabilities
+: **38**{: .label} Multiple Linear Regression
     : {{site.links.lec.slides.slide38}} {{site.links.lec.demo.demo38}}
-: _Reading:_ [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html), [18.1](https://inferentialthinking.com/chapters/18/1/More_Likely_than_Not_Binary_Classifier.html), [18.2](https://inferentialthinking.com/chapters/18/2/Making_Decisions.html)
+: _Reading:_ [17.6](https://inferentialthinking.com/chapters/17/6/Multiple_Regression.html)
 : **Lab**{: .label .label-lab} {{site.links.lab.lab10}} (Due 5/2)
 : **Homework**{: .label .label-homework} {{site.links.hw.hw12}} (Due 5/4)
 
