@@ -13,11 +13,10 @@ Created by Nishant Kheterpal and Jessica Hu,
 Contributions by Jonathan Ferrari, Updated and Maintained by Edwin Vargas and Bing Concepcion
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
