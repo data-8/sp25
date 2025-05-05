@@ -42,7 +42,7 @@ sememster: sp25 # set for the current seemester
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
 logo: "/data8logo.png"
-current_week: 15
+current_week: 16
 # This should be the page of all class archives
 # Typically just / for DS courses (with a visible index page), or /archives if you're hosting your own, or a link to the inst.eecs page
 # If you have no archive page, comment this line out or leave blank.
@@ -332,6 +332,6 @@ links:
       slide38: "[Slides](https://docs.google.com/presentation/d/13joSE3dky9ODcoGm3Q7ayh4q76ZEERmnB7klA5j40TU/edit?usp=sharing)"
       slide39: "[Slides](https://docs.google.com/presentation/d/1iqMVBKnVoUNkXl3SXTHaxALyXwNCH_kq2fBTMK2BskE/edit?usp=sharing)"
       slide40: "[Slides](https://docs.google.com/presentation/d/16GK3yypBeYBXfEMCn3hiifmWXY8OaqkSb01S9hhTyfA/edit?usp=sharing)"
-      slide41: ""
+      slide41: "[Slides](https://docs.google.com/presentation/d/1qWIOiZ4J1yvnismu2sL0_Ez1Gy2rkwa-WNFrRKLqepU/edit?usp=sharing)"
       slide42: ""
       slide43: ""

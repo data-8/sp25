@@ -5,10 +5,9 @@ date: 2025-05-04
 ---
 
 1. RRR Week OH (Online + IRL @Warren 101B)
-    * Wednesday 12-5 PM
-    * Thursday 10-2 PM
+    * Wednesday 12-4 PM
+    * Thursday 12-3 PM
 2. TA-led review sessions @VLSB 2050
-    * Monday (12/9) from 3-5 PM focusing on pre-midterm content
-    * Wednesday (12/11) from 6-8 PM focusing on post-midterm content
-3. [Past Finals Megathread](https://edstem.org/us/courses/64093/discussion/5811228)
-4. [Final Exam Preparation Tips](https://edstem.org/us/courses/64093/discussion/5853446)
+    * Tuesday (5/6) from 7-9 PM in Wheeler 150
+    * Friday (5/9) from 5-7 PM in Dwinelle 155
+3. [Past Finals Megathread](https://edstem.org/us/courses/73504/discussion/6618575)
